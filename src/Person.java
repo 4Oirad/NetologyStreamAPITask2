@@ -46,5 +46,4 @@ public class Person {
                 ", education=" + education +
                 '}';
     }
-
 }
